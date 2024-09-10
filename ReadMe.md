@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on any web development project<br>🤝 I’m looking for help with  any Software Engineering role<br>🌱 I’m currently learning React Native<br>💬 Ask me about anything related to Web development, Embedded systems and Internet of Things.<br>⚡ Fun fact : The first time I heard of Python Language I thought it is a snake language.
+🔭 I’m currently working on a Confidential project<br>👯 I’m looking to collaborate on any web development project<br>🤝 I’m looking for help with  any Software Engineering role<br>🌱 I’m currently learning React Native<br>💬 Ask me about anything related to Web development, Embedded systems and Internet of Things.<br>⚡ Fun fact : The first time I heard of Python Language I thought it is a snake language.
 
 
 ## 🌐 Socials:
